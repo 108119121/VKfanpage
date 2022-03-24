@@ -42,7 +42,7 @@ const color_options = [
 ];
 const image_options = [
   "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/12/06/884297-twitter-9.jpg",
-  "../assets/vkpos.jpg",
+  "./assets/vkpos.jpg",
   "https://cdn.wisden.com/wp-content/uploads/2021/10/GettyImages-966584540-3-980x530.jpg",
   "https://imgk.timesnownews.com/story/Virat_Kohli_70_not_out_in_3rd_T20I_vs_WI.jpg?tr=w-1200,h-900",
   "https://st.adda247.com/https://wpassets.adda247.com/wp-content/uploads/multisite/sites/5/2020/12/03090952/untitled-jpg.jpg",
